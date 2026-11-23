@@ -39,12 +39,12 @@ For ROM maintainers and module developers inspecting the internals, here is what
 ## 📲 Installation Guide
 
 1. **Extract** the downloaded `Dolby-Atmos-Proselight-AIO-Bundle.zip` using ZArchiver or your file manager.
-2. Get File Here : (https://github.com/Procelight/Dolby-Atmos-07.03.017-Module/releases)
-3. Open **Magisk / KernelSU / APatch** and go to the **Modules** tab.
-4. Flash the **Dolby Atmos Stable** zip first. *(Do not reboot yet)*
-5. Flash the **Spatial Sound 3D Add-on** zip second.
-6. **Reboot** your device.
-7. *(Optional)* Disable or freeze built-in `AudioFX` / `MusicFX` if you notice any equalizer conflicts.
+2. Get File Here : Grab the latest `.zip` file from the **[Releases](../../releases)** page.
+4. Open **Magisk / KernelSU / APatch** and go to the **Modules** tab.
+5. Flash the **Dolby Atmos Stable** zip first. *(Do not reboot yet)*
+6. Flash the **Spatial Sound 3D Add-on** zip second.
+7. **Reboot** your device.
+8. *(Optional)* Disable or freeze built-in `AudioFX` / `MusicFX` if you notice any equalizer conflicts.
 
 ---
 
