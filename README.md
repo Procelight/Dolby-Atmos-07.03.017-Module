@@ -1,4 +1,4 @@
-# 🎧 Dolby Atmos + Spatial Sound 3D Bundle (by Proselight)
+# 🎧 Dolby Atmos + Spatial Sound 3D Bundle (by Procelight)
 
 > # ⚠️ DO NOT FLASH THIS ZIP DIRECTLY!
 > **This archive is a bundle containing two separate modules.** Flashing this parent `.zip` directly in Magisk, KernelSU, or APatch will fail. 
@@ -8,7 +8,7 @@
 
 ## 📦 What's Inside the Archive?
 
-1. **Dolby Atmos Stable (by Proselight)** – Core audio engine and updated UI.
+1. **Dolby Atmos Stable (by Procelight)** – Core audio engine and updated UI.
 2. **Spatial Sound 3D Add-on** – Companion module for virtualized 3D surround depth.
 
 ---
@@ -19,6 +19,7 @@ This isn't a blind re-upload; the core package has been reworked for modern Andr
 
 * **Updated Dolby UI Application:** Integrated the latest Dolby Atmos user interface for smoother controls and updated visual layout.
 * **Magic Mount RS Architecture:** Migrated away from legacy mounting to **Magic Mount RS**, ensuring cleaner systemless injection and better compatibility on newer Android 16+ QPR builds without bootloops or broken overlays.
+* **Tested On:** Motorola Moto G54 5G (PixelOS17) Android 17 qpr0
 * **Native Spatial Sound Hook:** Patched the audio routing and policy flags so the core Dolby service communicates seamlessly with the Spatial Sound add-on.
 * **Spatial Sound 3D Add-on:** Packaged alongside the main module to unlock 3D head-tracking/spatial virtualization capabilities on supported stereo/wired/Bluetooth outputs.
 
